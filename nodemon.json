@@ -1,0 +1,10 @@
+{
+    "verbose": true,
+    "ignore": ["node_modules", ".next"],
+    "watch": ["server/index.js"],
+    "ext": "js json",
+    "env": {
+      "MONGO_ATLAS_PW": "oicu812!MongoDB",
+      "JWT_KEY": "jjdubssecret"
+    }
+}
